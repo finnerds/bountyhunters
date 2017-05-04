@@ -70,32 +70,12 @@ Spy
 
 The crime…
 
-| Location | Stolen Object | Suspect |
-|---|---|---|---|---| 
-| Took place in... 
-| The stolen object was... 
-| Was committed by... |
-
-| Mansion in Stockholm 
-| Lucky gold pig sculpture 
-| Lady Gaga |
-
-| Villa in Copenhagen 
-| Gold toilet
-| Madonna| 
-
-| Maisonet in Hong Kong
-| Rolex watch
-| Leo Dicaprio | 
-
-| Pent House in Tokyo 
-| Diamond necklace
-| Brad Pitt| 
-
-| Boutique Hotel in Cancun
-| Pablo Picasso painting
-| Andy Warhol| 
-
-| Resort in Acapulco
-| Claude Monet painting
-| Van Gogh| 
+| Location| Stolen Object | Suspect |
+|---------|---------------|---------| 
+| Took place in... |The stolen object was... |Was committed by... |
+| Mansion in Stockholm |Lucky gold pig sculpture |Lady Gaga |
+| Villa in Copenhagen |Gold toilet|Madonna| 
+| Maisonet in Hong Kong|Rolex watch|Leo Dicaprio | 
+| Pent House in Tokyo | Diamond necklace| Brad Pitt| 
+| Boutique Hotel in Cancun| Pablo Picasso painting| Andy Warhol| 
+| Resort in Acapulco| Claude Monet painting| Van Gogh| 
