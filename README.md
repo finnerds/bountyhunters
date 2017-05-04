@@ -54,21 +54,21 @@ If the vote goes through and this person is really a Spy, they are out of the ga
 ## Spy knows the crime solution.
 When a Spy believes they have cracked the crime solution, they must reveal themselves and announce what they believe the secret code to be. If they are wrong, they are out, and the Bounty Hunters are closer to winning. But if they guess correctly, then the Spies win the game! Each Spy can only guess the crime solution once, so you better be sure you know it!
 
-Example Game Cards
+# Example Game Cards
 
 Welcome to the Bounty Hunter Club!
 
-Bounty Hunter
+## Bounty Hunter
 
     You are a “Bounty Hunter” and the code is 
     “At a Villa in Copenhagen, a Pablo Picasso Picture was stolen by Madonna”
 
-Spy
+## Spy
 
     You are a “Spy” and you don’t know what the code is. Figure it out! 
     “At a Location, an Object was stolen by Suspect”
 
-The crime…
+## The crime…
 
 | Location| Stolen Object | Suspect |
 |---------|---------------|---------| 
